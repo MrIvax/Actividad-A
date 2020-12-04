@@ -15,7 +15,8 @@ public class HolaMundo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Mundo soy José");
+        System.out.println("Hola Planeta soy María");
+        System.out.println("Editado. Hola soy María");
     }
     
 }
